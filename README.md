@@ -1,7 +1,5 @@
 # Hi 👋, I'm sean
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seanozalpasan&label=Profile views&color=0e75b6&style=flat" alt="seanozalpasan" /> </p>
-
 - 🔭 I'm currently working on **Breaktime.org's registration website & Gyroscopic sound filtering for guitars.**
 
 - 🌱 I'm currently learning **C/C++, Database Architecture, and Embedded programming**
