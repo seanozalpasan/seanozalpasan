@@ -1,16 +1,16 @@
-# Hi 👋, I'm sean
+# Hi , I'm sean
 
-- 🔭 I'm currently working on **Breaktime.org's registration website & Gyroscopic sound filtering for guitars.**
+- I'm currently working on **Breaktime.org's registration website & Gyroscopic sound filtering for guitars.**
 
-- 🌱 I'm currently learning **C/C++, Database Architecture, and Embedded programming**
+- I'm currently learning **C/C++, Database Architecture, and Embedded programming**
 
-- 👯 I'm looking to collaborate on **Open source projects in Java, JavaScript, and C/C++**
+- I'm looking to collaborate on **Open source projects in Java, JavaScript, and C/C++**
 
-- 📫 How to reach me **seanozalpasan@gmail.com**
+- How to reach me **seanozalpasan@gmail.com**
 
-- ⚡ Fun fact **I am fluent in Turkish**
+- Fun fact **I am fluent in Turkish**
 
-- 👨‍💻 All of my projects are available at **[https://heyseanozalpasan.web.app/](https://heyseanozalpasan.web.app/)**
+- All of my projects are available at **[https://heyseanozalpasan.web.app/](https://heyseanozalpasan.web.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
